@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "admin": "inexsit",
+    "password": "123456",
+    "type": "_Commer"
+  },
+  {
+    "id": 1,
+    "admin": "moslem",
+    "password": "123456",
+    "type": "_Commer"
+  },
+  { "id": 3, "admin": "samir", "password": "123456", "type": "_Commer" }
+]

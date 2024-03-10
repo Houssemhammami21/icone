@@ -1,0 +1,4 @@
+[
+  { "id": 1, "admin": "houssem", "password": "26400907", "type": "_Admin" },
+  { "id": 2, "admin": "mabrouk", "password": "superU", "type": "_Admin" }
+]
