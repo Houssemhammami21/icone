@@ -42,12 +42,12 @@ const respA=fs.readFileSync('./db/admin.json')
 }));
  app.options('*', cors());
  
- app.get('/',function(res,req){
+/*  app.get('/',function(res,req){
   res.sendFile(path.join(__dirname,"../../recouvrement_front-end/src/index.js")),
   function(err){
     if(err){res.status(500).send(err);}
   }
- });
+ }); */
 
 app.post('/NewAdmin',(req,res)=>{
     res.header= 'Access-Control-Allow-Methods','POST, GET, PUT, DELETE, OPTIONS'
